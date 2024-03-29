@@ -14,8 +14,9 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/narendravarma123/disease-prediction.git
-cd disease-prediction
+git clone (https://github.com/Narendravarma123/nexus_internship-project-2.git)
+unzip hack
+cd hack
 Setup Virtual Environment:
 
 bash
