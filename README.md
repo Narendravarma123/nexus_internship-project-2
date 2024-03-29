@@ -1,6 +1,7 @@
 Disease Prediction and Doctor Recommendation System
 This repository contains the code for a Django-based web application that predicts diseases based on symptoms provided by the user and recommends relevant doctors for consultation.
 
+
 Overview
 This project was developed as part of an internship project given by nexus. The main objective was to create a system that could predict diseases based on symptoms entered by the user.  I enhanced this project by adding to recommend suitable doctors for further consultation. The system utilizes machine learning algorithms to predict diseases and a database of doctors to recommend specialists.
 
